@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.details-container{
+    background-image: linear-gradient(90deg, rgba(35,126,119,1) 0%, rgba(20,2,60,1) 49%, rgba(41,9,55,1) 100%);
+    color:white;
+}
+.image{
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+    display: flex;
+}
+
